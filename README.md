@@ -1,7 +1,3 @@
- ![rajkamal logo](https://user-images.githubusercontent.com/69305026/120753281-8ffcb880-c528-11eb-9bc3-a32bca5b67b8.jpg)
 
-hello there,
-welcome to Rajkamal jewellers website,the website is under making so thank you making a visit.
-Regard,
-SHUBHAM DAYAMA
 
+![Rajkamal template](https://user-images.githubusercontent.com/69305026/146653227-d75fb2a0-d23b-4aeb-887c-1542457a46b8.png)
